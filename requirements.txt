@@ -51,9 +51,6 @@ itsdangerous==1.1.0
 jedi==0.17.2
 Jinja2==2.11.2
 jsonschema==3.2.0
-jupyter-client==6.1.7
-jupyter-core==4.7.0
-jupyterlab-pygments==0.1.2
 Keras==2.4.3
 Keras-Preprocessing==1.1.2
 keyring==21.5.0
@@ -128,15 +125,12 @@ sphinxcontrib-htmlhelp==1.0.3
 sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.4
-spyder==4.2.0
-spyder-kernels==1.10.1
 tensorboard==2.4.0
 tensorboard-plugin-wit==1.7.0
 tensorflow-cpu==2.4.0
 tensorflow-estimator==2.4.0
 termcolor==1.1.0
 testpath==0.4.4
-tf==1.0.0
 three-merge==0.1.1
 toml==0.10.2
 tornado==6.1
