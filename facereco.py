@@ -72,8 +72,8 @@ def btp1(image):
   
 
   
-  path1='G:/btp1/fail/'
-  path2='G:/btp1/success/'
+  path1='/fail/'
+  path2='/success/'
   #return(pred[0][1],pred1[0][1])
   if(pred[0][1]>0.95): 
       if(names!='Unknown'): flag=1
