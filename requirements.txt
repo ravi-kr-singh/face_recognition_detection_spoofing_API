@@ -132,8 +132,8 @@ spyder==4.2.0
 spyder-kernels==1.10.1
 tensorboard==2.4.0
 tensorboard-plugin-wit==1.7.0
-tensorflow-cpu==2.1.0
-tensorflow-estimator==2.1.0
+tensorflow-cpu==2.4.0
+tensorflow-estimator==2.4.0
 termcolor==1.1.0
 testpath==0.4.4
 tf==1.0.0
